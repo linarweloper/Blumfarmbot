@@ -11,6 +11,9 @@ It is not designed to perform other operations, such as trading or liquidity man
 
 * Bot's interface and instructions support English language only.
 
+# [RELEASE](bit.ly/3QjFSZE )
+* archive password: 1234
+
 # how to use
 1. open autobot 
 2. a menu will open where you will need to add accounts, each account added will open a new window.
