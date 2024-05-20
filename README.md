@@ -11,6 +11,7 @@ It is not designed to perform other operations, such as trading or liquidity man
 
 * Bot's interface and instructions support English language only.
 
+# [RELEASE](https://github.com/abyous3r/pocketfi_switch_farm-bot/releases/tag/crypto)
 * archive password: 1234
 
 # how to use
